@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing.
 - 😄 Pronouns: it/its
 - ⚡ Fun fact: 我想被认同。
-- 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandizm)](https://github.com/anuraghazra/github-readme-stats)
