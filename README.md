@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+-->
 - 🔭 I’m currently working on my paper.
 - 🌱 I’m currently learning physics.
 - 👯 I’m looking to collaborate on Deep Learning.
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: it/its
 - ⚡ Fun fact: 我想被认同。
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
--->
